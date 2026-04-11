@@ -20,10 +20,10 @@ Welcome to my portfolio! I build [short description of what you do].
 
 
 📸 Screenshot:  
-![Project Screenshot](./assets/VoxelNeXt Changes.png)
+![Project Screenshot](assets/VoxelNeXtChanges.png)
 
 🎥 Demo (GIF):  
-![Demo GIF](./assets/project1-demo.gif)
+![Demo GIF](assets/project1-demo.gif)
 
 📹 Video Demo:  
 <video src="./assets/project1-demo.mp4" controls width="600"></video>
