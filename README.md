@@ -1,41 +1,26 @@
 # 👋 Hi, I'm Erik
 
-💻 Software Developer | 🚀 [Your Specialty] | 📍 Toronto, ON
+Ph.D. Student in Robotics 🦾 and Computer Vision 📷  | 📍 Toronto, ON
 
 Welcome to my portfolio! I build [short description of what you do].
 
 ---
 
 ## 🔗 Links
-
-- 🌐 Website: https://yourwebsite.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 🧑‍💻 GitHub: https://github.com/yourusername  
-- 📧 Email: your@email.com  
-
----
-
-## 🧠 Skills
-
-**Languages:**  
-- JavaScript / TypeScript  
-- Python  
-- C++  
-
-**Frameworks & Tools:**  
-- React / Next.js  
-- Node.js / Express  
-- Docker / Git  
+  
+- 💼 LinkedIn: https://www.linkedin.com/in/efredin/  
+- 🧑‍💻 GitHub: https://github.com/erikfredin  
+- 📧 Email: erik.fredin98@gmail.com  
 
 ---
 
 ## 🚀 Projects
 
-### 🧩 Project 1 — *Project Name*
-**Tech:** React, Node.js, MongoDB  
+### 🧩 *Robot Pose Estimation in Medical (OCT) Images*
+
 
 📸 Screenshot:  
-![Project Screenshot](./assets/project1.png)
+![Project Screenshot](./assets/VoxelNeXt Changes.png)
 
 🎥 Demo (GIF):  
 ![Demo GIF](./assets/project1-demo.gif)
@@ -103,6 +88,18 @@ You can showcase visuals separately too:
 
 - 🔨 [Project or skill you're learning]
 - 📚 Exploring [tech/topic]
+
+---
+## 🧠 Skills
+
+**Languages:**  
+- Python  
+- C++  
+
+**Frameworks & Tools:**  
+- React / Next.js  
+- Node.js / Express  
+- Docker / Git  
 
 ---
 
