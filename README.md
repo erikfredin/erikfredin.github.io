@@ -1,8 +1,8 @@
 
 Ph.D. Student in Robotics and Computer Vision  | 📍 Toronto, ON 
 ---
-[Resume](Resume.pdf) | [Projects](projects.md) | [Publication List](publications.md)  
----
+## [Resume](Resume.pdf) | [Projects](projects.md) | [Publication List](publications.md)  
+\
 👋 Hi there! I'm Erik, a final-year PhD candidate at the University of Toronto. I’m passionate about robotics and machine learning, and have researched on computer vision for medical robotics during my PhD. Here, I have worked on computer vision in both 3D data (medical images, point cloud) and regular images. I also developed algorithms for controlling a small surgical robot in real-time.
 
 Previously, I participated in the design team "Formula Student Driverless" at Lund University, Sweden. Here, I helped to build an emergency brake system that stopped the car in the event of an emergency. I also completed a project at Volvo Cars, where I developed software to control simulated autonomous vehicles in various traffic scenarios.
@@ -35,13 +35,13 @@ My current interests are computer vision and machine learning. I also love probl
 This is project was a collaboration between my lab and another lab at the University of Toronto. We estimate the 8 degree-of-freedom pose of a small surgical robot in medical (OCT) images. To achieve this, I reworked the architecture of a deep-learning model originally designed for detecting objects in LiDAR scans. The model leverages a keypoint detection approach to estimate the pose very accurately (5 degree joint angle error, 0.6 mm position error). We also used pose estimation to control the robot for performing a simple task, specifically picking up and dropping off a tube. Using pose estimation to do this task (closed loop) outperforms conventional control without pose estimation (open-loop).
 
 🔗 Links:
-- Publication: https://ieeexplore.ieee.org/abstract/document/11297825    
-- Paper PDF: https://github.com/yourusername/project1  
-- Project Website (incl. code): https://medcvr.utm.utoronto.ca/ral2025-oct-pose.html  
+- 🌐 [Publication](https://ieeexplore.ieee.org/abstract/document/11297825)    
+- 📜 [Paper PDF](https://github.com/yourusername/project1)  
+- 🖥️ [Project Website (incl. code)](https://medcvr.utm.utoronto.ca/ral2025-oct-pose.html)  
 
 ---
 
-### 🧩 Project 2 — *Project Name*
+### *Computer Vision via Endoscopic Cameras*
 **Tech:** Python, Flask  
 
 📸 Screenshot:  
@@ -60,6 +60,9 @@ Brief explanation.
 - GitHub: https://github.com/yourusername/project2  
 
 ---
+### *Pioneering a driverless racecar | Lund Formula Student*
+
+### *Autonomous vehicle simulations | Volvo Cars*
 
 ## 📸 Gallery
 
