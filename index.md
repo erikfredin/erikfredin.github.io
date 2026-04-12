@@ -9,16 +9,17 @@ title: Erik Fredin
 
   <span style="font-size: 2.0rem; color: black; font-weight: normal; margin-left: 10px;">
     |
-    <a href="./resume" style="color: black">Resume</a> |
+    <a href="./Resume.pdf" style="color: black">Resume</a> |
     <a href="./projects" style="color: black">Projects</a> |
     <a href="./publications" style="color: black">Publications</a>
   </span>
 
 </h1>
+
 <div style="display:flex; gap:32px; align-items:flex-start; flex-wrap:wrap;">
 
 <div style="min-width:220px; max-width:220px;">
-
+<br>
 <img src="./assets/profile.jpg" alt="Erik Fredin" style="width:100%; border-radius:50%;">
 
 <div style="margin-top:16px; font-size:0.95rem; line-height:1.6;">
@@ -33,6 +34,8 @@ title: Erik Fredin
 
 <div style="flex:1; min-width:300px;">
 
+<br>
+
 
 <p style="font-size: 1.1rem; margin-top: 0;">
 <strong>Ph.D. Student in Robotics and Computer Vision</strong> | Toronto, ON
@@ -46,7 +49,7 @@ title: Erik Fredin
 </p> -->
 
 <p>
-Hi there! I'm Erik, a final-year PhD candidate at the University of Toronto. I am passionate about robotics and machine learning, and have researched computer vision for medical robotics during my PhD.
+👋 Hi there! I'm Erik, a final-year PhD candidate at the University of Toronto. I am passionate about robotics and machine learning, and have researched computer vision for medical robotics during my PhD.
 </p>
 
 <p>
@@ -59,3 +62,14 @@ My current interests are computer vision and machine learning. I also love probl
 
 </div>
 </div>
+
+
+<br>
+
+## 🎓 Education
+
+**University of Toronto** — Doctor of Philosophy (PhD)  
+📅 2021–2026 \
+**Lund University, Sweden** — Master of Science (M.Sc.Eng.)  
+📅 2016–2021
+
