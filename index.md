@@ -1,6 +1,20 @@
 ---
 title: Erik Fredin
 ---
+<h1 style="font-size: 2.6rem; margin-bottom: 0.2rem;font-family: 'Inter', serif;">
+
+  <a href="/" style="text-decoration: none; color: inherit;">
+    Erik Fredin
+  </a>
+
+  <span style="font-size: 2.6rem; font-weight: normal; margin-left: 10px;">
+    |
+    <a href="./resume">Resume</a> |
+    <a href="./projects">Projects</a> |
+    <a href="./publications">Publications</a>
+  </span>
+
+</h1>
 <div style="display:flex; gap:32px; align-items:flex-start; flex-wrap:wrap;">
 
 <div style="min-width:220px; max-width:220px;">
@@ -19,20 +33,6 @@ title: Erik Fredin
 
 <div style="flex:1; min-width:300px;">
 
-<h1 style="font-size: 2.6rem; margin-bottom: 0.2rem;">
-
-  <a href="/" style="text-decoration: none; color: inherit;">
-    Erik Fredin
-  </a>
-
-  <span style="font-size: 0.45em; font-weight: normal; margin-left: 10px;">
-    |
-    <a href="./resume">Resume</a> |
-    <a href="./projects">Projects</a> |
-    <a href="./publications">Publications</a>
-  </span>
-
-</h1>
 
 <p style="font-size: 1.1rem; margin-top: 0;">
 <strong>Ph.D. Student in Robotics and Computer Vision</strong> | Toronto, ON
