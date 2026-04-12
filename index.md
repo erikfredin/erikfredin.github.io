@@ -1,17 +1,17 @@
 ---
 title: Erik Fredin
 ---
-<h1 style="font-size: 2.6rem; margin-bottom: 0.2rem;font-family: 'Inter', serif;">
+<h1 style="font-size: 2.6rem; margin-bottom: 0.2rem;font-family: 'Georgia', serif;">
 
   <a href="/" style="text-decoration: none; color: inherit;">
     Erik Fredin
   </a>
 
-  <span style="font-size: 2.6rem; font-weight: normal; margin-left: 10px;">
+  <span style="font-size: 2.0rem; color: black; font-weight: normal; margin-left: 10px;">
     |
-    <a href="./resume">Resume</a> |
-    <a href="./projects">Projects</a> |
-    <a href="./publications">Publications</a>
+    <a href="./resume" style="color: black">Resume</a> |
+    <a href="./projects" style="color: black">Projects</a> |
+    <a href="./publications" style="color: black">Publications</a>
   </span>
 
 </h1>
