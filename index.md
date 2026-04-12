@@ -1,3 +1,6 @@
+---
+title: Erik Fredin
+---
 <div style="display:flex; gap:32px; align-items:flex-start; flex-wrap:wrap;">
 
 <div style="min-width:220px; max-width:220px;">
