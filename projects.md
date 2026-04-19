@@ -68,6 +68,7 @@ In 2018-2019, LFS worked on a combustion engine based racecar. Here, I was worki
 </div>
 </div>
 
+---
 ### *Autonomous vehicle simulations | Volvo Cars, Sweden*
 <video src="./assets/Esmini1.mp4" controls width="600"></video>
 
